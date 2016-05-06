@@ -1,0 +1,72 @@
+// DM Environment file for NSD 4.0.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Icons"
+#define FILE_DIR "Icons/Armas"
+#define FILE_DIR "Icons/Bases"
+#define FILE_DIR "Icons/Cabelos"
+#define FILE_DIR "Icons/Jutsus"
+#define FILE_DIR "Icons/Npcs Inimigos"
+#define FILE_DIR "Icons/Outros"
+#define FILE_DIR "Icons/Roupas"
+#define FILE_DIR "Icons/Roupas/Conjuntos"
+#define FILE_DIR "Icons/Roupas/Costas"
+#define FILE_DIR "Icons/Roupas/Ombros"
+#define FILE_DIR "Icons/Roupas/Peito"
+#define FILE_DIR "Icons/Roupas/Pernas"
+#define FILE_DIR "Icons/Roupas/Pes"
+#define FILE_DIR "Icons/Roupas/Pulsos"
+#define FILE_DIR "Icons/Roupas/Rosto"
+#define FILE_DIR "Icons/Roupas/Testa"
+#define FILE_DIR "Imagens"
+#define FILE_DIR "Imagens/Cabelos"
+#define FILE_DIR "Imagens/clansjpg"
+#define FILE_DIR "Imagens/compras"
+#define FILE_DIR "Imagens/compras/bracos"
+#define FILE_DIR "Imagens/compras/cabeca"
+#define FILE_DIR "Imagens/compras/calca"
+#define FILE_DIR "Imagens/compras/peito"
+#define FILE_DIR "Imagens/compras/pes"
+#define FILE_DIR "Imagens/Copro"
+#define FILE_DIR "Imagens/icons"
+#define FILE_DIR "Imagens/Itenscorpo"
+#define FILE_DIR "Imagens/Jutsus"
+#define FILE_DIR "Imagens/mapavilas"
+#define FILE_DIR "Novas Turfs"
+#define FILE_DIR "Pngs"
+#define FILE_DIR "Turfs"
+#define FILE_DIR "Turfs2"
+#define FILE_DIR "VejaComoFica"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "0.0 - Básico.dm"
+#include "0.5 - Variaveis.dm"
+#include "1.0 - Sistema de Criação de Char.dm"
+#include "1.0 - Turfs.dm"
+#include "1.8 - Objetos.dm"
+#include "4.00 - Skin.dm"
+#include "4.01 - Tamanho da Tela.dm"
+#include "4.02 - Chat.dm"
+#include "4.02 - Chat1.1.dm"
+#include "4.02 - Chat1.2.dm"
+#include "4.04 - Quests,Missoes.dm"
+#include "4.05 - Itens Corpo.dm"
+#include "4.06 - Atalhos.dm"
+#include "4.08 - Perfil Inven. Jutsus.dm"
+#include "4.10 - Tela Esperar.dm"
+#include "4.11 - Armas.dm"
+#include "4.12 - Jutsus.dm"
+#include "Skin.dmf"
+#include "Mapa Beta.dmm"
+// END_INCLUDE
+

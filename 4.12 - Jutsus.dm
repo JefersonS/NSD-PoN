@@ -179,7 +179,9 @@ obj/jutsus
 // Jutsus and their types and properties
 /obj/jutsus/projeteis
 	Bump(mob)
-		usr << "a"
+		world << "a [src]"
+		src.icon = 'jutsus/katon_dano.dmi'
+
 	var
 		travelDistance = 10
 		abilityType = "projectile"
